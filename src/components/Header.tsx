@@ -13,7 +13,7 @@ export const Header = () => {
         <div className="flex items-center justify-between py-4">
           <Link to="/" className="flex flex-col items-start">
             <h1 className="text-2xl font-bold text-primary-foreground tracking-tight">
-              PERIPLUS.COM
+              Go-mart
             </h1>
             <p className="text-xs text-primary-foreground/80">Indonesia's largest bookstore</p>
           </Link>

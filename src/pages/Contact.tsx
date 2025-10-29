@@ -91,7 +91,7 @@ const Contact = () => {
                     <div>
                       <h3 className="font-bold text-lg mb-2">Head Office</h3>
                       <p className="text-muted-foreground">
-                        Periplus Indonesia<br />
+                        Go-mart Indonesia<br />
                         Jl. Raya Kelapa Gading<br />
                         Jakarta 14240, Indonesia
                       </p>

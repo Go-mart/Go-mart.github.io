@@ -14,7 +14,7 @@ const Terms = () => {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">1. Acceptance of Terms</h2>
             <p className="text-muted-foreground mb-4">
-              By accessing and using Periplus.com, you accept and agree to be bound by these Terms and Conditions. 
+              By accessing and using Go-mart, you accept and agree to be bound by these Terms and Conditions. 
               If you do not agree to these terms, please do not use our website.
             </p>
           </section>
@@ -62,7 +62,7 @@ const Terms = () => {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">7. Intellectual Property</h2>
             <p className="text-muted-foreground mb-4">
-              All content on this website, including text, graphics, logos, and images, is the property of Periplus.com 
+              All content on this website, including text, graphics, logos, and images, is the property of Go-mart 
               and protected by intellectual property laws.
             </p>
           </section>

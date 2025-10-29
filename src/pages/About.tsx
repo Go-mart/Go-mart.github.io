@@ -6,11 +6,11 @@ const About = () => {
   return (
     <div className="min-h-screen flex flex-col">
       <Header />
-      
+
       <main className="flex-1">
         <section className="bg-primary text-primary-foreground py-20">
           <div className="container mx-auto px-4 text-center">
-            <h1 className="text-5xl font-bold mb-6">About Periplus.com</h1>
+            <h1 className="text-5xl font-bold mb-6">About Go-mart</h1>
             <p className="text-xl max-w-3xl mx-auto opacity-90">
               Indonesia's largest bookstore, bringing the world of books to your doorstep since 1988
             </p>
@@ -53,7 +53,7 @@ const About = () => {
                   Over 100,000 titles across all genres and categories
                 </p>
               </div>
-              
+
               <div className="text-center">
                 <div className="bg-primary text-primary-foreground w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Award className="h-8 w-8" />
@@ -63,7 +63,7 @@ const About = () => {
                   Competitive pricing with regular discounts and promotions
                 </p>
               </div>
-              
+
               <div className="text-center">
                 <div className="bg-primary text-primary-foreground w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Users className="h-8 w-8" />
@@ -73,7 +73,7 @@ const About = () => {
                   Knowledgeable staff ready to help with recommendations
                 </p>
               </div>
-              
+
               <div className="text-center">
                 <div className="bg-primary text-primary-foreground w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Globe className="h-8 w-8" />
@@ -102,7 +102,7 @@ const About = () => {
           </div>
         </section>
       </main>
-      
+
       <Footer />
     </div>
   );
